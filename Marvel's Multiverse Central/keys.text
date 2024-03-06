@@ -1,0 +1,13 @@
+Public Keys
+218f5624c27a8fbb2e61c73ae33e86e4
+
+Private Keys
+018ff403cbbfb7bc22291a10cbb6cfade23e1db9
+
+ts
+1018ff403cbbfb7bc22291a10cbb6cfade23e1db9218f5624c27a8fbb2e61c73ae33e86e4
+
+Hash
+e7bdccbb012399e5e893e3fad8151b15
+
+http://gateway.marvel.com/v1/public/characters?ts=1&apikey=218f5624c27a8fbb2e61c73ae33e86e4&hash=e7bdccbb012399e5e893e3fad8151b15
